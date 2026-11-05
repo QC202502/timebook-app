@@ -1,0 +1,428 @@
+{
+  "version": 3,
+  "demo": true,
+  "scope": "demo-only",
+  "date": "2030-01-02",
+  "categories": [
+    {
+      "id": "work",
+      "name": "工作",
+      "color": "#3f6960",
+      "archived": false,
+      "children": [
+        {
+          "id": "work-1",
+          "name": "写方案",
+          "archived": false
+        },
+        {
+          "id": "work-2",
+          "name": "开会",
+          "archived": false
+        },
+        {
+          "id": "work-3",
+          "name": "沟通",
+          "archived": false
+        },
+        {
+          "id": "work-4",
+          "name": "业务研究",
+          "archived": false
+        }
+      ]
+    },
+    {
+      "id": "learn",
+      "name": "学习成长",
+      "color": "#687db3",
+      "archived": false,
+      "children": [
+        {
+          "id": "learn-1",
+          "name": "读书",
+          "archived": false
+        },
+        {
+          "id": "learn-2",
+          "name": "听书",
+          "archived": false
+        },
+        {
+          "id": "learn-3",
+          "name": "听课",
+          "archived": false
+        },
+        {
+          "id": "learn-4",
+          "name": "练习",
+          "archived": false
+        }
+      ]
+    },
+    {
+      "id": "create",
+      "name": "内容创作",
+      "color": "#b5744c",
+      "archived": false,
+      "children": [
+        {
+          "id": "create-1",
+          "name": "视频日记",
+          "archived": false
+        },
+        {
+          "id": "create-2",
+          "name": "写作",
+          "archived": false
+        },
+        {
+          "id": "create-3",
+          "name": "剪辑",
+          "archived": false
+        },
+        {
+          "id": "create-4",
+          "name": "封面",
+          "archived": false
+        }
+      ]
+    },
+    {
+      "id": "family",
+      "name": "家庭与家务",
+      "color": "#ad6985",
+      "archived": false,
+      "children": [
+        {
+          "id": "family-1",
+          "name": "陪伴",
+          "archived": false
+        },
+        {
+          "id": "family-2",
+          "name": "辅导",
+          "archived": false
+        },
+        {
+          "id": "family-3",
+          "name": "聚会",
+          "archived": false
+        },
+        {
+          "id": "family-4",
+          "name": "聊天",
+          "archived": false
+        }
+      ]
+    },
+    {
+      "id": "health",
+      "name": "运动健康",
+      "color": "#778b49",
+      "archived": false,
+      "children": [
+        {
+          "id": "health-1",
+          "name": "走路",
+          "archived": false
+        },
+        {
+          "id": "health-2",
+          "name": "跑步",
+          "archived": false
+        },
+        {
+          "id": "health-3",
+          "name": "力量训练",
+          "archived": false
+        },
+        {
+          "id": "health-4",
+          "name": "拉伸",
+          "archived": false
+        }
+      ]
+    },
+    {
+      "id": "life",
+      "name": "个人生活与出行",
+      "color": "#b39853",
+      "archived": false,
+      "children": [
+        {
+          "id": "life-1",
+          "name": "吃饭",
+          "archived": false
+        },
+        {
+          "id": "life-2",
+          "name": "家务",
+          "archived": false
+        },
+        {
+          "id": "life-3",
+          "name": "通勤",
+          "archived": false
+        },
+        {
+          "id": "life-4",
+          "name": "洗漱",
+          "archived": false
+        }
+      ]
+    },
+    {
+      "id": "fun",
+      "name": "休闲娱乐",
+      "color": "#9c795d",
+      "archived": false,
+      "children": [
+        {
+          "id": "fun-1",
+          "name": "听音乐",
+          "archived": false
+        },
+        {
+          "id": "fun-2",
+          "name": "听小说",
+          "archived": false
+        },
+        {
+          "id": "fun-3",
+          "name": "看电影",
+          "archived": false
+        },
+        {
+          "id": "fun-4",
+          "name": "游戏",
+          "archived": false
+        }
+      ]
+    },
+    {
+      "id": "rest",
+      "name": "睡眠休息",
+      "color": "#8e88a5",
+      "archived": false,
+      "children": [
+        {
+          "id": "rest-1",
+          "name": "睡觉",
+          "archived": false
+        },
+        {
+          "id": "rest-2",
+          "name": "午休",
+          "archived": false
+        },
+        {
+          "id": "rest-3",
+          "name": "放空",
+          "archived": false
+        }
+      ]
+    },
+    {
+      "id": "recording",
+      "name": "记录与系统",
+      "color": "#6555aa",
+      "archived": false,
+      "children": [
+        {
+          "id": "recording-1",
+          "name": "统计和分析",
+          "archived": false
+        },
+        {
+          "id": "recording-2",
+          "name": "工具与系统建设",
+          "archived": false
+        }
+      ]
+    },
+    {
+      "id": "social",
+      "name": "社交",
+      "color": "#b46b92",
+      "archived": false,
+      "children": [
+        {
+          "id": "social-1",
+          "name": "朋友",
+          "archived": false
+        },
+        {
+          "id": "social-2",
+          "name": "同事",
+          "archived": false
+        }
+      ]
+    },
+    {
+      "id": "other",
+      "name": "未分类",
+      "color": "#969a94",
+      "archived": false,
+      "children": []
+    }
+  ],
+  "records": [
+    {
+      "id": "demo-0",
+      "date": "2030-01-02",
+      "start": 460,
+      "end": 492,
+      "category": "life",
+      "activity": "早餐与出门",
+      "project": "",
+      "note": "",
+      "approximate": false,
+      "secondaryId": null
+    },
+    {
+      "id": "demo-1",
+      "date": "2030-01-02",
+      "start": 495,
+      "end": 534,
+      "category": "life",
+      "activity": "通勤",
+      "project": "",
+      "note": "",
+      "approximate": false,
+      "secondaryId": "life-3"
+    },
+    {
+      "id": "demo-2",
+      "date": "2030-01-02",
+      "start": 499,
+      "end": 529,
+      "category": "learn",
+      "activity": "听书",
+      "project": "在读书目",
+      "note": "",
+      "approximate": false,
+      "secondaryId": "learn-2"
+    },
+    {
+      "id": "demo-3",
+      "date": "2030-01-02",
+      "start": 547,
+      "end": 602,
+      "category": "work",
+      "activity": "写方案",
+      "project": "产品方案",
+      "note": "",
+      "approximate": false,
+      "secondaryId": "work-1"
+    },
+    {
+      "id": "demo-4",
+      "date": "2030-01-02",
+      "start": 560,
+      "end": 590,
+      "category": "fun",
+      "activity": "听音乐",
+      "project": "",
+      "note": "",
+      "approximate": false,
+      "secondaryId": "fun-1"
+    },
+    {
+      "id": "demo-5",
+      "date": "2030-01-02",
+      "start": 610,
+      "end": 643,
+      "category": "work",
+      "activity": "团队沟通",
+      "project": "产品方案",
+      "note": "",
+      "approximate": false,
+      "secondaryId": null
+    },
+    {
+      "id": "demo-6",
+      "date": "2030-01-02",
+      "start": 688,
+      "end": 717,
+      "category": "life",
+      "activity": "午饭",
+      "project": "",
+      "note": "",
+      "approximate": false,
+      "secondaryId": null
+    },
+    {
+      "id": "demo-7",
+      "date": "2030-01-02",
+      "start": 723,
+      "end": 761,
+      "category": "health",
+      "activity": "走路",
+      "project": "",
+      "note": "",
+      "approximate": false,
+      "secondaryId": "health-1"
+    },
+    {
+      "id": "demo-8",
+      "date": "2030-01-02",
+      "start": 728,
+      "end": 752,
+      "category": "learn",
+      "activity": "听书",
+      "project": "在读书目",
+      "note": "",
+      "approximate": false,
+      "secondaryId": "learn-2"
+    },
+    {
+      "id": "demo-9",
+      "date": "2030-01-02",
+      "start": 738,
+      "end": 745,
+      "category": "create",
+      "activity": "记录灵感",
+      "project": "",
+      "note": "",
+      "approximate": false,
+      "secondaryId": null
+    },
+    {
+      "id": "demo-10",
+      "date": "2030-01-02",
+      "start": 775,
+      "end": 798,
+      "category": "rest",
+      "activity": "午休",
+      "project": "",
+      "note": "",
+      "approximate": false,
+      "secondaryId": "rest-2"
+    },
+    {
+      "id": "demo-11",
+      "date": "2030-01-02",
+      "start": 817,
+      "end": 867,
+      "category": "create",
+      "activity": "整理素材",
+      "project": "视频日记",
+      "note": "",
+      "approximate": false,
+      "secondaryId": null
+    },
+    {
+      "id": "demo-12",
+      "date": "2030-01-02",
+      "start": 880,
+      "end": 922,
+      "category": "create",
+      "activity": "写作",
+      "project": "视频日记",
+      "note": "",
+      "approximate": false,
+      "secondaryId": "create-2"
+    }
+  ]
+}
