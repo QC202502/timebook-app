@@ -11,7 +11,7 @@
     "test:release": "node tools/release-smoke.mjs"
   },
   "dependencies": {
-    "next": "15.5.29",
+    "next": "16.4.4",
     "react": "^19.0.0",
     "react-dom": "^19.0.0"
   },
